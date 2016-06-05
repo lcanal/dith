@@ -457,3 +457,13 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+
+section#game-1 {
+    padding: 5em;
+    width: 100%;
+}
+
+.container#game-1 {
+    margin-left: 5px;
+}
