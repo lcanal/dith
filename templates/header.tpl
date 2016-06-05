@@ -13,6 +13,6 @@
   <!-- Custom CSS -->
   <link href="static/css/freelancer.css" rel="stylesheet">
 
-  <title>{{ title }}</title>
+  <title>A Dagger in thy Heart</title>
   <rel
 </head>
